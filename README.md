@@ -8,6 +8,8 @@
 - `recite-words-vue-mobile`：用户移动端
 - `recite-words-vue-pc`：用户pc端
 - `recite-words-vuepress-doc`：使用vuepress生成的文档
+- `recite-words-wechat`：背单词，微信小程序版
+- `recite-words-android`：背单词，安卓版
 
 
 
